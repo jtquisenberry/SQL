@@ -1,0 +1,6 @@
+E:\Development3\SQL\Regex_CLR\Regex_CLR\bin\Debug\Regex_CLR.dll
+E:\Development3\SQL\Regex_CLR\Regex_CLR\bin\Debug\Regex_CLR.pdb
+E:\Development3\SQL\Regex_CLR\Regex_CLR\obj\Debug\JQRegex_CLR.csprojResolveAssemblyReference.cache
+E:\Development3\SQL\Regex_CLR\Regex_CLR\obj\Debug\JQRegex_CLR.csproj.CoreCompileInputs.cache
+E:\Development3\SQL\Regex_CLR\Regex_CLR\obj\Debug\Regex_CLR.dll
+E:\Development3\SQL\Regex_CLR\Regex_CLR\obj\Debug\Regex_CLR.pdb
